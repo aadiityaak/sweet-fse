@@ -1,5 +1,5 @@
 === Sweet FSE FSE ===
-Contributors: them.es
+Contributors: websweet.xyz
 Tested up to: 6.1
 Stable tag: 1.1.2
 License: GPLv2 or later

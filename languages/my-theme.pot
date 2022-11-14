@@ -1,7 +1,7 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: them.es Starter Theme (Full Site Editing)\n"
+"Project-Id-Version: websweet.xyz Starter Theme (Full Site Editing)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-05 08:48+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
@@ -17,17 +17,17 @@ msgstr ""
 "X-Domain: my-theme"
 
 #. Author URI of the theme
-msgid "https://them.es"
+msgid "https://websweet.xyz"
 msgstr ""
 
 #. URI of the theme
-msgid "https://them.es/starter-fse"
+msgid "https://websweet.xyz/starter-fse"
 msgstr ""
 
 #. Description of the theme
 msgid ""
 "I'm an Open-source Full Site Editing Starter Theme developed and maintained "
-"by them.es"
+"by websweet.xyz"
 msgstr ""
 
 #: blocks/index.php:50
@@ -35,15 +35,15 @@ msgid "Lead"
 msgstr ""
 
 #. Author of the theme
-msgid "them.es"
+msgid "websweet.xyz"
 msgstr ""
 
 #: blocks/index.php:26
-msgid "them.es Starter FSE"
+msgid "websweet.xyz Starter FSE"
 msgstr ""
 
 #. Name of the theme
-msgid "them.es Starter Theme (Full Site Editing)"
+msgid "websweet.xyz Starter Theme (Full Site Editing)"
 msgstr ""
 
 #: blocks/index.php:33

@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: them.es Starter Theme v1.0\n"
+"Project-Id-Version: websweet.xyz Starter Theme v1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-10-20 13:02+0000\n"
 "PO-Revision-Date: 2021-04-05 08:49+0000\n"
@@ -28,17 +28,17 @@ msgstr ""
 "X-Loco-Version: 2.5.2; wp-5.7"
 
 #. Author URI of the theme
-msgid "https://them.es"
+msgid "https://websweet.xyz"
 msgstr ""
 
 #. URI of the theme
-msgid "https://them.es/starter-fse"
+msgid "https://websweet.xyz/starter-fse"
 msgstr ""
 
 #. Description of the theme
 msgid ""
 "I'm an Open-source Full Site Editing Starter Theme developed and maintained "
-"by them.es"
+"by websweet.xyz"
 msgstr ""
 
 #: blocks/index.php:50
@@ -46,15 +46,15 @@ msgid "Lead"
 msgstr ""
 
 #. Author of the theme
-msgid "them.es"
+msgid "websweet.xyz"
 msgstr ""
 
 #: blocks/index.php:26
-msgid "them.es Starter FSE"
+msgid "websweet.xyz Starter FSE"
 msgstr ""
 
 #. Name of the theme
-msgid "them.es Starter Theme (Full Site Editing)"
+msgid "websweet.xyz Starter Theme (Full Site Editing)"
 msgstr ""
 
 #: blocks/index.php:33
